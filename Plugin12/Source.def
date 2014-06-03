@@ -1,0 +1,9 @@
+LIBRARY "Plugin12.dll"
+
+EXPORTS
+
+GetAuthor
+GetDescription
+Execute
+SetLanguage
+

@@ -1,0 +1,8 @@
+LIBRARY "Plugin1.dll"
+
+EXPORTS
+
+GetAuthor
+GetDescription
+Execute
+SetLanguage
